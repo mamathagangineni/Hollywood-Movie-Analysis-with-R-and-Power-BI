@@ -5,6 +5,10 @@ Hollywood Movies Analysis with R and Power BI
 
 **Data** - Title, genre, studio, profitability, and ratings for movies released 2007-2012.
 
+**Source** - https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
+![image](https://user-images.githubusercontent.com/129056615/228066117-322e5c75-4942-44c5-be68-f11b621032f6.png)
+
+
 First cleansing of the data is done  through 'R', then file is exported to Power BI and detailed analysis is done.
  
 **Visualisation** - Dashboard is created using company brand colors which are blue, green and brown. 
